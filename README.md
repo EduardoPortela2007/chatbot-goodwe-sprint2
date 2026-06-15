@@ -79,7 +79,7 @@ docs/
 Chatbot_GoodWe.ipynb
 ```
 
-## Resultados
+## Resultado
 
 Os testes mostraram que o chatbot conseguiu responder adequadamente às perguntas dentro do contexto da GoodWe e do EV Challenge 2026.
 
