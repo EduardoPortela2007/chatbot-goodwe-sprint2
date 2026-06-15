@@ -23,7 +23,7 @@ Atualmente, muitos locais que possuem carregadores de veículos elétricos enfre
 
 O chatbot foi criado para facilitar esse processo, permitindo consultas rápidas através de uma conversa simples.
 
-## Tecnologias Utilizadas
+## Tecnologia Utilizada
 
 * Python
 * OpenAI API
